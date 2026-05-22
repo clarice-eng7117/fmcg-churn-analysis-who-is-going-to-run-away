@@ -1,5 +1,13 @@
 # 🛒 FMCG E-Commerce Churn Analysis & XAI Roadmap
 Strategic Solutions Project: Predicting Attrition & Interpreting "Black Box" Logic
+
+## 📊 Project Management & Task Tracking
+
+To aligh with professional software development workflows, this project was tracked using **GitHub Projects**. 
+- The live tracking environment can be viewed natively under the repository's [Projects] tab.
+
+### Kanban Workflow screenshot:
+![Project Board Tracking](project-board-tracking.png)
   
 ## 🎯 Business Problem
 In the FMCG sector, customer acquisition is 5-7x more expensive than retention. This project develops a predictive engine to identify at-risk customers and uses Explainable AI (XAI) to provide marketing teams with actionable intervention strategies.
