@@ -52,6 +52,10 @@ Immediate escalation for complaints filed by low-tenure segments.
 Triggering engagement offers based on the DaySinceLastOrder thresholds identified by SHAP.
 
 
+### AI usage Disclaimer:
+This README is generated with the AI's assistance after drafting its content myself to have a better structured README.
+
+
 
       
 Author: Eng Kah Hui
